@@ -102,7 +102,7 @@
             "style": "powerline",
             "powerline_symbol": "\ue0b2",
             "invert_powerline": true,
-            "foreground": "#f2f3f8",
+            "foreground": "#000830",
             "background": "#ffffff",
             "template": " \ueba2 {{ .FormattedMs }} ",
             "properties": {
