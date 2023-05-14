@@ -116,7 +116,7 @@
             "powerline_symbol": "\ue0b2",
             "invert_powerline": true,
             "foreground": "#f2f3f8",
-            "background": "#000000",
+            "background": "#453131",
             "trailing_diamond": "\ue0b0",
             "template": " \uf073 {{ .CurrentDate | date .Format }} ",
             "properties": {
